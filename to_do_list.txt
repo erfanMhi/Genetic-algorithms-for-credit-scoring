@@ -1,0 +1,3 @@
+1. Filtering should be done.
+2. Wraping should be done.
+3. how we should do first initialization of population should be done.
